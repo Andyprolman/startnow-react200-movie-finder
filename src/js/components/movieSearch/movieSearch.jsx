@@ -42,7 +42,7 @@ class MovieSearchContainer extends React.Component {
     return (
       <div >
         <div className='text-center'>
-            <h1>Movie Finder</h1>
+            <h1 style={{marginTop: '50px'}}>Movie Finder</h1>
         </div>
         <div className='row'>
             <div className='col-md-11'>
