@@ -1,5 +1,5 @@
 import { combineReducers } from 'redux';
-import movieSearchReducer from './components/MovieSearch/MovieSearchReducer';
+import movieSearchReducer from './components/MovieSearch/movieSearchReducer';
 
 const rootReducer = combineReducers({
 
